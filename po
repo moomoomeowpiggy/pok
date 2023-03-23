@@ -1,0 +1,10 @@
+<html>
+<head>
+    <body>
+<h1>var first_name=Ranbir;</h1>  
+<h2>var last_name=Kapoor</h2>
+
+<p>Visual Studio is a coding platform where you can build any native app using writing in the index.html, style.css, and main.js.</p>
+    </body>
+</head>
+</html>
